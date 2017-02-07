@@ -5,7 +5,7 @@
 #container {
   display: flex;
   flex-direction: row;
-  justify-content: flex-start;
+  justify-content: center;
   height: 90%;
   background-color: #333;
   flex-wrap: wrap; }
@@ -24,12 +24,8 @@ p {
   align-items: flex-start; }
 
 #wrapper{
-  width: 100%;
-  position: absolute;
+  width: 90%;
   margin: 5%;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
 }
 
 /*# sourceMappingURL=style.css.map */
