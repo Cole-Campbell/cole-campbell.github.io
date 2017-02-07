@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 90%;
+  width: 100%;
+  background-color: #333;
+  flex-wrap: wrap; }
+
+p {
+  text-align: center;
+  padding: 50px;
+  color: white;
+  font-family: Arial;
+  font-size: 20px; }
+
+.box {
+  height: auto;
+  margin: 20px;
+  background-color: #cc504a;
+  align-items: center; }
+
+/*# sourceMappingURL=style.css.map */
